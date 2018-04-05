@@ -70,6 +70,7 @@ $on-laptop:        800px !default;
 }
 .plataformas {
   margin-top: 20px;
+  margin-bottom: 20px;
   display: flex;
   justify-content: space-between;
 }
@@ -78,4 +79,7 @@ $on-laptop:        800px !default;
   padding: 20px;
   border-radius: 25px;
   background-color: #d4e6ec;
+}
+.licenca {
+  text-align: center;
 }

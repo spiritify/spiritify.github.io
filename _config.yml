@@ -11,9 +11,9 @@ social:
   - title: twitter
     url: https://twitter.com/spiritifybr
   - title: facebook
-    url: https://www.facebook.com/SpiritifyBR/
+    url: https://www.facebook.com/SpiritifyBR
   - title: instagram
-    url: https://www.instagram.com/spiritifybr/
+    url: https://www.instagram.com/spiritifybr
 
 # Build settings
 markdown: kramdown
